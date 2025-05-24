@@ -21,7 +21,7 @@ app.add_middleware(
 )
 
 # mongo_client = MongoClient("mongodb://localhost:27017")
-mongo_client = MongoClient(api_key=os.getenv("MONGODB_URI"))
+mongo_client = MongoClient(os.getenv("MONGODB_URI"))
 db = mongo_client["Area83"]
 rooms_collection = db["rooms"]
 packages_collection = db["packages"]
