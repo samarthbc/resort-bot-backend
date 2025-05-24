@@ -136,6 +136,9 @@ Currently, pets are not allowed for safety and hygiene reasons.
 
 17. Is the resort wheelchair accessible?
 We are working on making more areas accessible. Please call ahead for specific assistance.
+
+18. How do I get to your resort?
+Take a right turn at the Koli Farm Gate after the NICE Road junction on Bannerghatta Road. Then keep left from the gate — Area 83 is less than 1 km from there
 """
 
     try:
