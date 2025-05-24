@@ -70,17 +70,72 @@ Rooms:
 Packages:
 {package_info}
 
-FAQs:
-Q. What is the opening and closing time of the resort?
-A. The resort opens at 6 AM and closes at 9 PM.
+General FAQs
+1. What is Area 83?
+Area 83 is a premier adventure resort located on the outskirts of Bengaluru, offering a wide range of outdoor activities, stay options, and nature experiences.
 
-Q. How do you get my consent?
-A. When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only. If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
+2. Where is Area 83 located?
+We are located at:
+Bannerghatta Road, Bengaluru, Karnataka 560038
+(Activities are conducted on our resort premises outside the city.)
 
-Q. How do I withdraw my consent?
-A. If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@area83.in or mailing us at: #619 2nd main 1st stage Indiranagar Bangalore 560038
+3. What are your timings?
+We are open from 9:00 AM to 6:00 PM for day visits. Overnight stays have flexible check-in/check-out times.
 
-Assist the user accordingly as per the details above.
+4. Is prior booking required?
+Yes, prior booking is highly recommended for all experiences to ensure availability.
+
+Activities & Packages
+5. What kind of activities are available?
+We offer a wide range of activities including:
+
+Paintball
+ATV rides
+Kayaking
+Ziplining
+Obstacle courses
+Human foosball
+and more!
+
+6. Are the activities safe?
+Absolutely! All our activities are supervised by trained professionals with safety gear and precautions in place.
+
+7. Can kids participate in the activities?
+Yes, we have age-appropriate activities and separate kids' zones.
+
+Booking & Payments
+8. How can I book a visit?
+You can book online through our website or contact us via WhatsApp or phone for assistance.
+
+9. What are the payment options?
+We accept UPI, debit/credit cards, net banking, and cash payments at the venue.
+
+10. Is there a cancellation policy?
+Yes. Cancellations made 48 hours prior to your visit are eligible for a refund. For full terms, refer to our cancellation policy on the website.
+
+Accommodation
+11. Do you offer overnight stays?
+Yes, we have a variety of stay options including glamping tents and cottages.
+
+12. Are meals included in stay packages?
+Yes, most stay packages include meals. You can choose from vegetarian and non-vegetarian options.
+
+Corporate & Group Events
+13. Can you host corporate outings or team-building events?
+Yes! We specialize in curated experiences for corporates, schools, and large groups.
+
+14. Do you offer custom packages for groups?
+Yes, our team will help tailor a package based on your group size and preferences.
+
+Other Services
+15. Is there parking available?
+Yes, we offer free and secure parking on the premises.
+
+16. Are pets allowed?
+Currently, pets are not allowed for safety and hygiene reasons.
+
+17. Is the resort wheelchair accessible?
+We are working on making more areas accessible. Please call ahead for specific assistance.
 """
 
     try:
